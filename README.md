@@ -1,4 +1,5 @@
 # Pardus Run
+
 > Source Code
 
 Welcome to **Pardus Run**!
@@ -7,9 +8,10 @@ Pardus Run is an endless runner game where you guide a magical Pardus. Inspired 
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+![Screenshot 3](assets/screenshot3.png)
+![Screenshot 4](assets/screenshot4.png)
 
 Enjoy the adventure, and may your run be long and thrilling!
 
